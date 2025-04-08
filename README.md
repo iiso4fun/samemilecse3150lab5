@@ -12,7 +12,7 @@ This C++ program reads in vectors (lists of numbers) from a text file and calcul
 ## Features  
 - Input Parsing: Reads vectors from a text file. Each line in the file should contain a vector with numbers separated by spaces.  
 - Validation: Checks that all vectors are the same length.  
-- Cosine Angle Calculation:** Calculates the angle between two vectors using the dot product and vector lengths (Euclidean norms).  
+- Cosine Angle Calculation: Calculates the angle between two vectors using the dot product and vector lengths (Euclidean norms).  
 - Sorting: Sorts the vector pairs by their angle, from smallest to largest.  
 - Output: Prints out each vector pair with their calculated angle in radians.
 
