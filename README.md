@@ -14,7 +14,7 @@ This C++ program reads in vectors (lists of numbers) from a text file and calcul
 - Validation: Checks that all vectors are the same length.  
 - Cosine Angle Calculation:** Calculates the angle between two vectors using the dot product and vector lengths (Euclidean norms).  
 - Sorting: Sorts the vector pairs by their angle, from smallest to largest.  
-- Output:** Prints out each vector pair with their calculated angle in radians.
+- Output: Prints out each vector pair with their calculated angle in radians.
 
 ---
 
