@@ -30,4 +30,3 @@ This C++ program reads in vectors (lists of numbers) from a text file and calcul
 ```bash
 g++ -std=c++11 -o cosine_pairs cosine_pairs.cpp
 ./cosine_pairs test_vectors.txt
-
